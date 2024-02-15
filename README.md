@@ -1,4 +1,8 @@
-### Hi there 👋
+### Projects
+
+- 유튜브 알고리즘 리버스 엔지니어링 프로젝트    <a href="https://github.com/s2lky/youtube">[🔗 About]</a>
+- 미국 주가 데이터를 이용한 주가 예측 서비스    <a href="https://github.com/s2lky/stock_predict">[🔗 About]</a>
+- Flask를 통한 소설 랭킹 서비스    <a href="https://github.com/s2lky/Munpia">[🔗 About]</a>
 
 <!--
 **s2lky/s2lky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
